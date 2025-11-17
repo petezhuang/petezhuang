@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"       alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"       alt="TypeScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"                 alt="React" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"                 alt="Vue" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"                 alt="Vue" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"               alt="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"             alt="Webpack" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"                   alt="Vite" width="40" height="40" />
@@ -33,26 +33,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=petezhuang&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="Pete's GitHub stats"
-    height="180"
-    style="vertical-align: middle;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=petezhuang&layout=compact&hide=java,python&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-    height="180"
-    style="vertical-align: middle;"
-  />
+    <img src="https://github-readme-stats.vercel.app/api?username=petezhuang&show_icons=true&theme=tokyonight&hide_border=true" 
+         style="height:200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petezhuang&layout=compact&hide=java,python&theme=tokyonight&hide_border=true" 
+         style="height:200px;"/>
 </p>
+
+
+
 
 ---
 
 ## 🧪 What I’m Playing With
 
 - 🧬 人工智能 **大模型微调、推理加速、工具链搭建**
-- 💻 前端方向：**矢量绘图、低代码、交互式工具**
+- 💻 前端方向 **矢量绘图、低代码、交互式工具**
 - 📱 正在研究 **React Native客户端开发**
 
 
