@@ -13,7 +13,7 @@
 
 ---
 
-## 🧰 技术栈
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"       alt="JavaScript" width="40" height="40" />
