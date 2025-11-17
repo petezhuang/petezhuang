@@ -56,14 +56,14 @@
 ## 📫 Reach Me
 
 <p align="center">
-  <a href="petezhuang13@163.com">
+  <a href="mailto:petezhuang13@163.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pete-zhuang-342991372/" target="_blank">
+  <a href="https://www.linkedin.com/in/pete-zhuang-342991372/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
