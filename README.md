@@ -34,9 +34,9 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=petezhuang&show_icons=true&theme=tokyonight&hide_border=true" 
-         style="height:200px;"/>
+         style="height:150px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petezhuang&layout=compact&hide=java,python&theme=tokyonight&hide_border=true" 
-         style="height:200px;"/>
+         style="height:150px;"/>
 </p>
 
 
