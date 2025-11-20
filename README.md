@@ -65,14 +65,14 @@
 </p>
 
 ## 🎵 Recent Listening
-<p align="center">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
   <img src="blackflag.jpg" width="160" alt="黑旗" />
   <img src="huayushe.jpg" width="160" alt="花与蛇" />
   <img src="longnian.jpg" width="160" alt="龙年" />
   <img src="qianzhuan.jpg" width="160" alt="钱专" />
   <img src="naxiaozizhenshuai.jpg" width="160" alt="那小子真帅" />
   <img src="wangguozhilei.jpg" width="160" alt="王国之泪" />
-</p>
+</div>
 
 
 ---
